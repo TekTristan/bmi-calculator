@@ -1,4 +1,4 @@
-#BMI Calculator
+BMI Calculator
 This is a simple BMI calculator built using JavaScript and ReactJS. It allows the user to enter their weight and height, and calculates their BMI (Body Mass Index) based on this input.
 
 How to use
